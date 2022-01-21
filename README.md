@@ -9,7 +9,7 @@
 
 <h3 align="left">Benimle bağlantı kurun:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fikri köni" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fikri köni" yükseklik="10" genişlik=" 15" /></a>
+<a href="https://linkedin.com/in/fikri köni"  /></a>
 </p>
 
 <h3 align="left">Diller ve Araçlar:</h3>
