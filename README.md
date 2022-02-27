@@ -1,17 +1,12 @@
 <img src="">
 
 <h1 align="center">Merhaba 👋, ben Fikri KÖNİ</h1>
-<h3 align="center">QA Öğrencisi</h3>
+<h3 align="center">QA </h3>
 
 
 Java, Lambda, mySQL, HTML, CSS, Selenium, JUnit, TestNG
 
-
-Connect with me
-
-Top Languages
-<h3 align="left">Diller ve Araçlar:</h3>
-Languages and Tools:
+<h3 align="left">Languages and Tools:</h3>
 css3 git html5 java mysql selenium
 
 Work Places:
