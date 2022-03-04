@@ -1,4 +1,4 @@
-<img src="">
+<img src="D:\FİKRİ KURS\Github\Yeni klasör">
 
 <h1 align="center">Merhaba 👋, ben Fikri KÖNİ</h1>
 <h3 align="center">QA </h3>
