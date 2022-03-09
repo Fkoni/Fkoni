@@ -1,4 +1,4 @@
-<img src="">
+<img src="https://github.com/Fkoni/Fkoni/blob/main/img.JPG?raw=true">
 
 <h1 align="center">Merhaba 👋, ben Fikri KÖNİ</h1>
 <h3 align="center">QA </h3>
